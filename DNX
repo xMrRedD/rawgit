@@ -1,0 +1,43 @@
+{
+  "room": "DubstepNationX",
+  "author": "xMrRedD",
+  "icon": "http://i.imgur.com/92tLgta.png",
+  "css": "https://rawgit.com/Dark1997/HJV/master/HJV.css",
+  "rules": {
+    "allowAutorespond": false,
+    "allowAutowoot": true,
+    "allowAutojoin": true,
+    "allowAutograb": true,
+    "allowSmartVote": true,
+    "allowEmotes": true,
+    "allowShowingMehs": false,
+    "forceSmartVote": false
+},
+  "ccc": {
+    "admin": null,
+    "ambassador": null,
+    "host": "#44BE85",
+    "cohost": "#44BE85",
+    "manager": "#44BE85",
+    "bouncer": "#44BE85",
+    "rdj": "#44BE85",
+    "subscriber": null,
+    "friend": null,
+    "user": null
+  },
+  "images": {
+    "background": "http://i.imgur.com/62xHGkl.jpg",
+    "playback": "http://i.imgur.com/MOoDUY4.png",
+    "admin": "",
+    "ambassador": "",
+    "host": "",
+    "cohost": "",
+    "manager": "",
+    "bouncer": "",
+    "rdj": "",
+    "subscriber": null,
+    "other": null
+  },
+  "emotes": {
+  }
+}
